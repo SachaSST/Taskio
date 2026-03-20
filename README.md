@@ -1,37 +1,34 @@
-# Todo List React/Redux/MUI
+# React/Redux/MUI Todo List
 
-Ce projet est une application de gestion de tâches construite avec React, Redux, et Material-UI. Elle permet d'ajouter, de marquer comme terminées, d'archiver et de restaurer des tâches.
+This project is a task management application built with React, Redux, and Material-UI. It allows users to add, complete, archive, and restore tasks.
 
-## Fonctionnalités
+## Key Features
 
-- **Ajouter des tâches** : Ajoutez de nouvelles tâches à la liste.
-- **Marquer comme terminé** : Cochez une tâche pour la marquer comme terminée.
-- **Archiver des tâches** : Déplacez les tâches terminées vers une section archivées.
-- **Restaurer des tâches** : Restaurez les tâches archivées dans la liste principale.
-- **Authentification** : Bouton de connexion (placeholder pour la fonctionnalité future).
+- **Add Tasks**: Add new tasks to your list.
+- **Mark as Completed**: Check off tasks to mark them as done.
+- **Archive Tasks**: Move completed tasks to an archived section.
+- **Restore Tasks**: Bring archived tasks back to the main list.
+- **Authentication**: Login button (placeholder for future functionality).
 
-## Technologies utilisées
+## Tech Stack
 
-- **React** 
-- **Redux** 
-- **Material-UI** 
-- **Redux Toolkit** 
+- **React**
+- **Redux**
+- **Material-UI**
+- **Redux Toolkit**
 
-## Utilisation
+## Usage
 
-### Ajouter une tâche
-- Entrez le texte de la tâche dans le champ "New Todo".
-- Cliquez sur le bouton "Add" pour ajouter la tâche à la liste.
+### Adding a Task
+- Enter the task description in the "New Todo" field.
+- Click the "Add" button to add the task to your list.
 
-### Marquer comme terminé
-- Cochez la case à côté de la tâche pour la marquer comme terminée.
+### Marking as Completed
+- Click the checkbox next to a task to mark it as completed.
 
-### Archiver une tâche
-- Cliquez sur l'icône de la corbeille pour archiver la tâche terminée.
+### Archiving a Task
+- Click the trash icon to move a completed task to the archive.
 
-### Restaurer une tâche
-- Cliquez sur le menu (trois barres) en haut à gauche pour ouvrir la liste des tâches archivées.
-- Cliquez sur l'icône de restauration à côté de la tâche que vous souhaitez restaurer.
-
-
-
+### Restoring a Task
+- Click the menu icon (hamburger menu) in the top-left corner to open the archived tasks list.
+- Click the restore icon next to the task you wish to bring back.
